@@ -1,0 +1,6 @@
+[book]
+authors = ["Loïc Chen"]
+language = "en"
+multilingual = true
+src = "src"
+title = "C++ and WebAssembly"
